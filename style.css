@@ -1,0 +1,28 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.profile{
+    float: left;
+    width: 325px;
+    background-color: brown;
+}
+
+.profile h3{
+  font-family: 'Courier New', Courier, monospace;
+  background-color: blueviolet;
+}
+
+img{
+    width: 325px;
+    height: 275px;
+}
+
+.allProfile{
+    width: 350px;
+}
